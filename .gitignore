@@ -1,0 +1,11 @@
+# Track only the essential project files.
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/KafleDeliverable1.ipynb
+!/KafleDeliverable2.ipynb
+!/KafleDeliverable3.ipynb
+!/KafleDeliverable4.ipynb
+!/Border_Crossing_Entry_Data.csv
+!/Predicting the Volume of Border-Crossing.pptx
